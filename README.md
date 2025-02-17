@@ -5,6 +5,9 @@ From ITIN to SSN, from B/F/J/H/L/O Visa to Green Card/Citizen, we all have legal
 Details are coming soon; please stay tuned!
 
 # Recommended Order for Beginners
+## Bank of America OR Capital One?
+## American Express
+## Chase
 
 # Rescources
 ## U.S. Mailing Address
@@ -14,9 +17,9 @@ Details are coming soon; please stay tuned!
 ### SSN
 ### U.S. Visa
 ### U.S. Driver's License and State ID
-### U.S. Employment Authorization Document(EAD)
+### U.S. Employment Authorization Document (EAD)
 ### U.S. Green Card
 ### U.S. Passport
 
 # Disclaimer
-The information on this website is provided for informational purposes only and is not intended as legal or tax advice.
+The information on this website/repository is provided for informational purposes only and is not intended as legal or tax advice.
