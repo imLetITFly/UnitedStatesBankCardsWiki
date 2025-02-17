@@ -8,7 +8,7 @@ export default defineConfig({
   base: '/UnitedStatesBankCardsWiki/',
   themeConfig: {
     nav: [
-      { text: 'vitepress Example', link: '/vitepressExample' },
+      { // text: 'vitepress Example', link: '/vitepressExample' },
       // {
       //   text: 'Dropdown Menu',
       //   items: [
@@ -25,7 +25,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'vitepress Example', link: '/vitepressExample' },
+          { // text: 'vitepress Example', link: '/vitepressExample' },
           // ...
         ],
       },
