@@ -9,7 +9,7 @@ Details are coming soon; please stay tuned!
 # Rescources
 ## U.S. Mailing Address
 ## Enough Spending Power
-## Establish U.S. Identity and Tax records
+## U.S. Identity and Tax records
 ### ITIN
 ### SSN
 ### U.S. Visa
